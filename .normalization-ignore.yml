@@ -1,0 +1,14 @@
+# .normalization-ignore.yml — traceable MDG-Stan exceptions for this repo.
+# Picked up automatically by `mdgstan run` (default ignore path) when it runs
+# from this repo's root.
+version: 1
+ignores:
+  - rule: claude-md-ai-ready
+    reason: >-
+      Org profile repo (README.md + profile/README.md only, no code/CI to
+      steer an agent through) — AGENTS.md/CLAUDE.md removed on purpose.
+      Rule already SKIPs today (repo has no ai-ready topic); entry registers
+      the exception explicitly so adding that topic later doesn't silently
+      turn into a fail.
+    added_by: michael
+    date: "2026-07-30"

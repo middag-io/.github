@@ -15,7 +15,8 @@ We combine hands-on engineering with a product mindset. Whether you need a Moodl
 
 ### Get in touch
 
-- **Website:** [middag.com.br](https://middag.com.br)
+- **Website:** [middag.io](https://middag.io)
+- **Email:** [email@middag.io](mailto:email@middag.io)
 - **GitHub:** [github.com/middag-io](https://github.com/middag-io)
 
 ---
@@ -37,5 +38,6 @@ Combinamos engenharia prática com visão de produto. Seja um plugin Moodle do z
 
 ### Fale conosco
 
-- **Site:** [middag.com.br](https://middag.com.br)
+- **Site:** [middag.io](https://middag.io)
+- **E-mail:** [email@middag.io](mailto:email@middag.io)
 - **GitHub:** [github.com/middag-io](https://github.com/middag-io)
