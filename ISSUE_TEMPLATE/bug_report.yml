@@ -1,0 +1,42 @@
+name: Bug report / Relato de bug
+description: Something does not work as expected. / Algo não funciona como esperado.
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: >-
+        Security issues must not be reported here: see SECURITY.md. /
+        Falhas de segurança não devem ser relatadas aqui: veja o SECURITY.md.
+  - type: textarea
+    id: description
+    attributes:
+      label: What happened / O que aconteceu
+      description: What you expected and what happened instead. / O que você esperava e o que aconteceu.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce / Passos para reproduzir
+      placeholder: |
+        1.
+        2.
+        3.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version / Versão
+      description: Version, tag or commit. / Versão, tag ou commit.
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment / Ambiente
+      description: Operating system, runtime and platform versions. / Sistema operacional, runtime e versões da plataforma.
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs
+      description: Remove secrets and personal data. / Remova segredos e dados pessoais.
+      render: text
