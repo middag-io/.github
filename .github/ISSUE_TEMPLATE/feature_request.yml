@@ -1,5 +1,6 @@
 name: Feature request / Pedido de melhoria
 description: Suggest a new feature or an improvement. / Sugira um recurso novo ou uma melhoria.
+type: Feature
 labels: [enhancement]
 body:
   - type: textarea

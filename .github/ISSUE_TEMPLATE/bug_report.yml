@@ -1,5 +1,6 @@
 name: Bug report / Relato de bug
 description: Something does not work as expected. / Algo não funciona como esperado.
+type: Bug
 labels: [bug]
 body:
   - type: markdown
