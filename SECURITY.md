@@ -35,7 +35,7 @@ Não relate vulnerabilidades de segurança em issues, discussões ou pull reques
 
 Relate em privado:
 
-- por e-mail para **[security@middag.io](mailto:security@middag.io)**, ou
+- por e-mail para **[seguranca@middag.com.br](mailto:seguranca@middag.com.br)**, ou
 - pelo botão **Report a vulnerability** na aba Security do repositório afetado.
 
 Inclua, na medida do possível:
