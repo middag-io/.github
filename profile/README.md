@@ -39,5 +39,5 @@ Combinamos engenharia prática com visão de produto. Seja um plugin Moodle do z
 ### Fale conosco
 
 - **Site:** [middag.io](https://middag.io)
-- **E-mail:** [email@middag.io](mailto:email@middag.io)
+- **E-mail:** [contato@middag.com.br](mailto:contato@middag.com.br)
 - **GitHub:** [github.com/middag-io](https://github.com/middag-io)
